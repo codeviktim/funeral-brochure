@@ -24,6 +24,9 @@ export default function App(){
       <Document file={file} onLoadSuccess={onDocSuccess}>
         <Page pageNumber={pageNumber}/>
       </Document> 
-    </div>
+  </div>
   )
 }
+
+
+ 
